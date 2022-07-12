@@ -83,3 +83,14 @@ a{
 .images p {
     margin-left: 15px;
 }
+.images_text{
+    display: flex;
+}
+.imgg{
+    width: 50%;
+    margin-left: 25%;
+}
+.text{
+    width:50%;
+    margin-left: 15%;
+}
